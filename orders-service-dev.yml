@@ -8,8 +8,8 @@ spring:
     name: orders-service
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/order
-    username: postgres
+    url: jdbc:postgresql://localhost:5433/order
+    username: 11200228
     password: lamaachi
 
   jpa:
