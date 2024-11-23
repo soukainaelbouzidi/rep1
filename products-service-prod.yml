@@ -8,9 +8,10 @@ spring:
     name: products-service
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/customer
+     url: jdbc:postgresql://localhost:5432/product
     username: postgres
     password: 1234
+
 
   jpa:
     hibernate:
